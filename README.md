@@ -2,7 +2,7 @@
 
 ### AI Engineer | LLMs, RAG Systems & Data Pipelines
 
-AI & Data Engineer specializing in productionizing Large Language Models, high-precision RAG architectures, and automated MLOps / DevOps deployment pipelines[cite: 6]. I engineer scalable, fault-tolerant AI systems—combining a strong foundation in DevOps continuous delivery and AI security & governance to turn complex models into secure, enterprise-ready solutions[cite: 6].
+AI & Data Engineer specializing in productionizing Large Language Models, high-precision RAG architectures, and automated MLOps / DevOps deployment pipelines. I engineer scalable, fault-tolerant AI systems—combining a strong foundation in DevOps continuous delivery and AI security & governance to turn complex models into secure, enterprise-ready solutions.
 
 ---
 
