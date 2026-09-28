@@ -2,7 +2,7 @@
 
 ### AI Engineer | LLMs, RAG Systems & Data Pipelines
 
-I build practical AI and data-driven systems that solve real-world problems. I’m passionate about reliable machine learning, language models, retrieval-augmented generation, and scalable data pipelines.
+AI & Data Engineer specializing in productionizing Large Language Models, high-precision Retrieval-Augmented Generation (RAG) architectures, and end-to-end data pipelines. I engineer scalable, fault-tolerant Machine Learning systems designed to turn complex data into measurable business outcomes.   
 
 ## Connect with me
 
