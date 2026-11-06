@@ -63,9 +63,9 @@ My work spans large language models, high-precision retrieval-augmented generati
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Punam918&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1&icon_color=2DD4BF&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Punam918&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1&icon_color=2DD4BF&rank_icon=github&cache_seconds=86400" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punam918&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1" alt="Most-used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punam918&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1&cache_seconds=86400" alt="Most-used programming languages" />
 
 </div>
 
