@@ -63,9 +63,13 @@ My work spans large language models, high-precision retrieval-augmented generati
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Punam918&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1&icon_color=2DD4BF&rank_icon=github&cache_seconds=86400" alt="GitHub statistics" />
+<a href="https://github.com/Punam918"><img src="https://img.shields.io/badge/View%20GitHub%20Profile-Punam918-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Punam918's GitHub profile" /></a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punam918&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1&cache_seconds=86400" alt="Most-used programming languages" />
+<br />
+
+<img src="https://img.shields.io/github/followers/Punam918?style=flat-square&label=Followers&color=0F766E" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Punam918?style=flat-square&label=Total%20stars&color=EAB308" alt="GitHub stars" />
+<img src="https://img.shields.io/github/repos/Punam918?style=flat-square&label=Public%20repositories&color=2563EB" alt="Public repositories" />
 
 </div>
 
