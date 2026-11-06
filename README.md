@@ -59,22 +59,6 @@ My work spans large language models, high-precision retrieval-augmented generati
 
 </div>
 
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/Punam918"><img src="https://img.shields.io/badge/View%20GitHub%20Profile-Punam918-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Punam918's GitHub profile" /></a>
-
-<br />
-
-<img src="https://img.shields.io/github/followers/Punam918?style=flat-square&label=Followers&color=0F766E" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Punam918?style=flat-square&label=Total%20stars&color=EAB308" alt="GitHub stars" />
-<img src="https://img.shields.io/github/repos/Punam918?style=flat-square&label=Public%20repositories&color=2563EB" alt="Public repositories" />
-
-</div>
-
----
-
 <div align="center">
 
 *Building reliable AI systems from data to deployment.*
