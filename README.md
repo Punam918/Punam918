@@ -21,6 +21,7 @@ My work spans large language models, high-precision retrieval-augmented generati
 
 | Project | Focus |
 |---|---|
+| [MCP_Newsletter_Studio](https://github.com/Punam918/MCP_Newsletter_Studio) | MCP-native AI newsletter research and production with source-linked evidence, editorial workflows, and human review |
 | [CiteMind-AI-RAGOps](https://github.com/Punam918/CiteMind-AI-RAGOps) | Evidence-grounded research assistance with hybrid retrieval, reranking, and transparent citations |
 | [Dev-Pilot](https://github.com/Punam918/Dev-Pilot) | Human-governed AI debugging with reviewable fixes, controlled tools, approval gates, and automated tests |
 | [VerityLake](https://github.com/Punam918/VerityLake) | Governed data-to-RAG workflows for ingestion, validation, lakehouse publishing, retrieval, and citation evidence |
